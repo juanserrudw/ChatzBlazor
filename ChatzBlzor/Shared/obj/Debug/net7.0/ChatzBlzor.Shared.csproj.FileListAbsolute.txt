@@ -1,0 +1,12 @@
+D:\C#\Proyects\ChatzBlzor\ChatzBlzor\Shared\bin\Debug\net7.0\ChatzBlzor.Shared.deps.json
+D:\C#\Proyects\ChatzBlzor\ChatzBlzor\Shared\bin\Debug\net7.0\ChatzBlzor.Shared.dll
+D:\C#\Proyects\ChatzBlzor\ChatzBlzor\Shared\bin\Debug\net7.0\ChatzBlzor.Shared.pdb
+D:\C#\Proyects\ChatzBlzor\ChatzBlzor\Shared\obj\Debug\net7.0\ChatzBlzor.Shared.csproj.AssemblyReference.cache
+D:\C#\Proyects\ChatzBlzor\ChatzBlzor\Shared\obj\Debug\net7.0\ChatzBlzor.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Proyects\ChatzBlzor\ChatzBlzor\Shared\obj\Debug\net7.0\ChatzBlzor.Shared.AssemblyInfoInputs.cache
+D:\C#\Proyects\ChatzBlzor\ChatzBlzor\Shared\obj\Debug\net7.0\ChatzBlzor.Shared.AssemblyInfo.cs
+D:\C#\Proyects\ChatzBlzor\ChatzBlzor\Shared\obj\Debug\net7.0\ChatzBlzor.Shared.csproj.CoreCompileInputs.cache
+D:\C#\Proyects\ChatzBlzor\ChatzBlzor\Shared\obj\Debug\net7.0\ChatzBlzor.Shared.dll
+D:\C#\Proyects\ChatzBlzor\ChatzBlzor\Shared\obj\Debug\net7.0\refint\ChatzBlzor.Shared.dll
+D:\C#\Proyects\ChatzBlzor\ChatzBlzor\Shared\obj\Debug\net7.0\ChatzBlzor.Shared.pdb
+D:\C#\Proyects\ChatzBlzor\ChatzBlzor\Shared\obj\Debug\net7.0\ref\ChatzBlzor.Shared.dll
