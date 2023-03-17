@@ -1,4 +1,2 @@
-# ChatzBlazor
-Desarrollo de aplicacion de chats en blazor  WebAssembly 7.0
-co la biblioteca de signalR y Identity de  .Net, La interfaz de usuario esta desarrollada con MudBlazor.
-Tambien se utilizo code firts con el ORM  EntityFramework  y SqlServer.
+Desarrollo de aplicación de chats con Blazor WebAssembly.
+- Se utiliza la biblioteca signalR de Microsoft Asp.Net para la conneción en tiempo real, Para la conneción y creacion de base de datos se utiliza el enfoque de code-first con   el ORM Entity Framework a una base de datos SqlServer,Del lado se utiliza la libreria de MudBlazor para la interface de usuario con Identity de Asp.Net para el registro y     inicio de sesión de la interfaz de usuario.
